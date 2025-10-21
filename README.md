@@ -1,4 +1,4 @@
-# **⚛️ AIPU Meltdown: A Small AI Game**
+#AIPU Meltdown: A Small AI Game**
 
 AIPU Meltdown is a single-page web game. Players must maintain a critical balance between the AIPU's **Heat** (which rises with computation load) and **Stability** (which degrades due to instability events), all while managing the audio output of the processing unit.
 
